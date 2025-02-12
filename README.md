@@ -18,8 +18,8 @@ As a SOC analyst working within Swimlane, a SOAR platform, the goal of this proj
 While this project may seem incredibly niche (let’s face it, automating alert claims using image detection isn’t something you’ll find in every cybersecurity job description), it was surprisingly effective for streamlining the workflow in a busy SOC.
 
 That said, if you want to dive in and replicate this setup, here’s the installation process.
-### Installation
-# CaseClaimBot
+
+### CaseClaimBot Installation
 1. **Install Python 3.10 (not compatible with other major versions)**
 2. **Clone/download this repository**
 3. **Open the project folder in your IDE of choice (Visual Studio Code recommended)**
